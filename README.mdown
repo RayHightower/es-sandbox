@@ -1,0 +1,4 @@
+Elasticsearch and Ruby
+===
+
+Sandbox for experiments with Elasticsearch and Ruby.
